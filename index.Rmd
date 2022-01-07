@@ -1,11 +1,13 @@
 ---
-title: "Shelf life gain map"
+title: "Speed and distance"
+author: "Kanaha Shoji"
+date: "1/7/2022"
+output: html_document
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
-
 
 ## R Markdown
 

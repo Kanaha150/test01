@@ -1,0 +1,12 @@
+name: "test01"
+output_dir: "docs"
+navbar:
+  title: "Cars"
+  left:
+  - text: "Home"
+   href: index.html
+  - text: "Speed and Distance"
+   href: sl-map-banana-ind-test.html
+output:
+  html_document:
+ theme: cosmo
